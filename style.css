@@ -1,0 +1,23 @@
+.title {
+  text-align: center;
+}
+
+.buttons {
+  text-align: center;
+}
+
+.body {
+  padding-top: 70px;
+  display: flex;
+  justify-content: space-evenly;
+  margin: 0 auto;
+}
+
+.text {
+  padding: 10px;
+}
+
+body {
+  background-color: black;
+  color: red;
+}
