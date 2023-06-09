@@ -16,3 +16,7 @@
 .text {
   padding: 10px;
 }
+
+body {
+  background: pink;
+}
